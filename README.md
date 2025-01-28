@@ -2,7 +2,7 @@
 
 This repository contains my Homework 2 Assignment.
 
-The data is profs.csv, bikeshare.csv, capmetro_UT.csv, and billboard.csv.
+The data is profs.csv, bikeshare.csv, capmetro_UT.csv, and billboard.csv. billboard.csv can be found under 'files' in the course Canvas page, and the rest of the data files are linked here.
 
 To reproduce my results:
 
