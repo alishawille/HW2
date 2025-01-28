@@ -2,7 +2,7 @@
 
 This repository contains my Homework 2 Assignment.
 
-The data is from Basketball Reference and contains statistics on all 2024 WNBA players.
+The data is profs.csv, bikeshare.csv, capmetro_UT.csv, and billboard.csv.
 
 To reproduce my results:
 
